@@ -1,36 +1,227 @@
-<h1 align="center">Hi 👋, I'm Mohammed Zeesan khan</h1>
-<h3 align="center">A passionate machine learning engineer from India</h3>
+<div align="center">Zeesan Khan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeesankhan&label=Profile%20views&color=0e75b6&style=flat" alt="zeesankhan" /> </p>
+"Aspiring Machine Learning Engineer"
 
-- 🔭 I’m currently working on **machine learning projects to strengthen my portfolio**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+ideas;Learning+Machine+Learning;Exploring+LLMs+%26+AI+Agents;Turning+curiosity+into+code"><br>""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/[YOUR_GITHUB_USERNAME])
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" ([YOUR_LINKEDIN])
+""Portfolio" (https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)" ([YOUR_PORTFOLIO])
+""Email" (https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:[YOUR_EMAIL])
 
-- 🌱 I’m currently learning **Tensorflow , pytorch, and data preprocessing techniques**
+<br>"Profile Views" (https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
 
-- 👯 I’m looking to collaborate on **Real world applications of ML and deep learning**
+</div>---
 
-- 🤝 I’m looking for help with **Improving my machine learning and deep learning skills**
+"~/about"
 
-- 💬 Ask me about **Building ML models with scikit-learn and tensorflow**
+I'm Zeesan Khan, an aspiring Machine Learning Engineer interested in building technology that can solve practical problems.
 
-- 📫 How to reach me **kzeesan12@gmail.com**
+I'm currently focused on strengthening my foundations in Python, AI, Machine Learning, mathematics, and software development, while experimenting with projects that turn ideas into working systems.
 
-- ⚡ Fun fact **I talk to my ML models more than i talk to people**
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🧠 Learning how intelligent systems are designed and built
+- ⚙️ Interested in automation, AI agents, LLMs, and computer vision
+- 🛠️ Building projects to learn through experimentation
+- 🚀 Long-term goal: become a strong ML/AI engineer and build impactful products
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeesan-khan-316b772a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeesan-khan-316b772a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://codesandbox.com/kzeesan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kzeesan12" height="30" width="40" /></a>
-<a href="https://kaggle.com/zeesankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeesankhan" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/16xhupxczs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/16xhupxczs/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/unexploredzeesan9682?igsh=nw92ctljzxnrdwns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/unexploredzeesan9682?igsh=nw92ctljzxnrdwns" height="30" width="40" /></a>
-<a href="https://discord.gg/zeesan4214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeesan4214" height="30" width="40" /></a>
-<a href="/https://rss.app/new-rss-feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/new-rss-feed" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+"> currently"
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeesankhan&show_icons=true&locale=en" alt="zeesankhan" /></p>
+<table>
+<tr>
+<td width="50%">🔭 Building
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeesankhan&" alt="zeesankhan" /></p>
+"[CURRENT PROJECT]"
+
+</td>
+<td width="50%">🌱 Learning
+
+"Python • Machine Learning • AI"
+
+</td>
+</tr><tr>
+<td width="50%">🧠 Exploring
+
+"LLMs • AI Agents • Automation • Computer Vision"
+
+</td>
+<td width="50%">🎯 Direction
+
+"Machine Learning Engineering"
+
+</td>
+</tr>
+</table>«Fun fact: "[ADD YOUR OWN FUN FACT]"»
+
+---
+
+"⚡ toolbox"
+
+Languages & Core
+
+<p align="left"><img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github,linux,vscode&perline=7" /></p>Data & Machine Learning
+
+<p align="left"><img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,pytorch,tensorflow&perline=6" /></p>«Principle: I only want to list technologies that I can genuinely explain, use, and continue learning—not technologies added just to make the profile look bigger.»
+
+---
+
+"📊 current skill map"
+
+«These are self-assessed learning indicators, not objective measurements. They will change as I learn.»
+
+<table>
+<tr>
+<td align="center" width="50%">Python
+
+"████████░░" 80%
+
+Machine Learning
+
+"█████░░░░░" 50%
+
+Data Analysis
+
+"█████░░░░░" 50%
+
+Mathematics
+
+"████░░░░░░" 40%
+
+</td><td align="center" width="50%">AI / LLMs
+
+"█████░░░░░" 50%
+
+Algorithms & DSA
+
+"████░░░░░░" 40%
+
+Git / GitHub
+
+"██████░░░░" 60%
+
+</td>
+</tr>
+</table>Learning > pretending to know everything.
+
+---
+
+"🚀 featured projects"
+
+«Four projects. Four opportunities to show what I can build.»
+
+<table>
+<tr><td width="50%" valign="top">"[PROJECT ONE]"
+
+[One-line description of the project.]
+
+"Python" "AI/ML" "[TECH]"
+
+"View Repository →" ([PROJECT_ONE_GITHUB])
+
+"Live Demo →" ([PROJECT_ONE_DEMO])
+
+</td><td width="50%" valign="top">"[PROJECT TWO]"
+
+[One-line description of the project.]
+
+"Python" "Automation" "[TECH]"
+
+"View Repository →" ([PROJECT_TWO_GITHUB])
+
+"Live Demo →" ([PROJECT_TWO_DEMO])
+
+</td></tr><tr><td width="50%" valign="top">"[PROJECT THREE]"
+
+[One-line description of the project.]
+
+"Machine Learning" "[TECH]" "[TECH]"
+
+"View Repository →" ([PROJECT_THREE_GITHUB])
+
+"Live Demo →" ([PROJECT_THREE_DEMO])
+
+</td><td width="50%" valign="top">"[PROJECT FOUR]"
+
+[One-line description of the project.]
+
+"AI" "[TECH]" "[TECH]"
+
+"View Repository →" ([PROJECT_FOUR_GITHUB])
+
+"Live Demo →" ([PROJECT_FOUR_DEMO])
+
+</td></tr>
+</table>---
+
+"📈 github activity"
+
+<div align="center">Contribution Journey
+
+"GitHub Contribution Graph" (https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=github-compact&hide_border=true)
+
+</div><br><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&hide_border=true&theme=transparent" height="165"></div>---
+
+"🧭 learning journey"
+
+<div align="center">                    ┌─────────────────┐
+                    │     Python      │
+                    └────────┬────────┘
+                             ↓
+                  ┌─────────────────────┐
+                  │ Data & Mathematics  │
+                  └──────────┬──────────┘
+                             ↓
+                 ┌──────────────────────┐
+                 │   Machine Learning  │
+                 └──────────┬───────────┘
+                            ↓
+                   ┌─────────────────┐
+                   │  Deep Learning  │
+                   └────────┬────────┘
+                            ↓
+                 ┌──────────────────────┐
+                 │ Generative AI / LLMs │
+                 └──────────┬───────────┘
+                            ↓
+                    ┌────────────────┐
+                    │ Production ML  │
+                    │    / MLOps     │
+                    └────────────────┘
+
+</div>---
+
+"🎯 2026 → 2027"
+
+- [ ] Strengthen Python fundamentals
+- [ ] Build a strong foundation in mathematics for ML
+- [ ] Learn core Machine Learning algorithms
+- [ ] Build meaningful AI/ML projects
+- [ ] Learn Deep Learning
+- [ ] Explore LLMs and AI agents
+- [ ] Contribute to open-source projects
+- [ ] Build a strong technical GitHub portfolio
+- [ ] Keep learning by building, breaking, and rebuilding
+
+---
+
+"🧪 philosophy"
+
+Learn something.
+        ↓
+Build something.
+        ↓
+Break something.
+        ↓
+Understand why.
+        ↓
+Build it better.
+
+I don't want my GitHub to simply show what I know.
+
+I want it to show what I'm becoming capable of building.
+
+---
+
+<div align="center">"Turning curiosity into intelligent systems."
+
+<br><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=00D9FF"/></div>
