@@ -121,11 +121,13 @@ My focus is on turning machine learning concepts into **practical, real-world ap
 
 ## 📈 GitHub Statistics
 
+## 📈 GitHub Statistics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeesankhan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeesankhan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="180" alt="Zeesan's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeesankhan&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeesankhan&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Zeesan's Top Languages" />
 
 </div>
 
@@ -133,11 +135,9 @@ My focus is on turning machine learning concepts into **practical, real-world ap
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=zeesankhan&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeesankhan&hide_border=true&theme=transparent" height="180" alt="Zeesan's GitHub Streak" />
 
 </div>
-
----
 
 ## 🐍 Contribution Activity
 
