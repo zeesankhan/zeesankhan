@@ -13,7 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: zeesankhan
@@ -21,10 +26,16 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "dist"
-          message: "Update contribution snake"
-          push: true
-          new_branch: output
+      - name: Publish snake to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git checkout --orphan output
+          git rm -rf . 2>/dev/null || true
+
+          cp -r dist/* .
+
+          git add .
+          git commit -m "Update contribution snake"
+          git push --force origin output
